@@ -1,1 +1,2 @@
 This file contains plain text.
+Prueba del comando git commit cambiado.
